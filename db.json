@@ -1,4 +1,11 @@
 {
-  "name": "Psalm Steve",
-  "email": "psalmsteve@gmail.com"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
